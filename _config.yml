@@ -1,0 +1,28 @@
+name: miketracy
+favicon: null
+layout_spectrum: 0.023447584826499224
+typography_spectrum: 0.3994423260446638
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7785232495516539
+  lightness: 0.983145865611732
+  saturation: 0.11671296949498355
+  rhythmicContrast: 0.7189569491893053
+purpose: []
